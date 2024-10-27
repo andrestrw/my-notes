@@ -26,9 +26,7 @@ Dejar los campos obligatorios a JJ le parece Ok
 | Lenguaje | Config File |
 |----------|--------------|
 | JavaScript | package.json |
-| Ruby | Genfile |
-| Python | requirement.txt |
-| Rust | Cargo.toml |
+
 
 ## Example of a Flow Chart
 
