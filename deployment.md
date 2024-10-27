@@ -17,11 +17,9 @@ On heruku the lenguaje buildpack will be detected based on the lenguaje config f
 This is a codeblack
 ```
 
-```
-mermaid
-flowchart Lr
+```mermaid
+flowchart LR
     one --> two
     three --> four
-
 
 ```
