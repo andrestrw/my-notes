@@ -10,3 +10,18 @@ On heruku the lenguaje buildpack will be detected based on the lenguaje config f
 | Ruby | Genfile |
 | Python | requirement.txt |
 | Rust | Cargo.toml |
+
+## Example of a Flow Chart
+
+```
+This is a codeblack
+```
+
+```
+mermaid
+Flowchart Lr
+    one --> two
+    three --> four
+
+
+```
