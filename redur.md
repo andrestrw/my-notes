@@ -1,6 +1,6 @@
 # REDUR
 
-## Antes de cualqueir cambio, haz una copia de seguridad
+# **** Antes de cualqueir cambio, haz una copia de seguridad ****
 
 ## Enfoque actual
 
