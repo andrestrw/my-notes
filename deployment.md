@@ -19,7 +19,7 @@ This is a codeblack
 
 ```
 mermaid
-Flowchart Lr
+flowchart Lr
     one --> two
     three --> four
 
