@@ -3,4 +3,4 @@
 ### Table of contents
 - [Redur](./redur.md)
 - [Cofarca](./cofarca.md)
-- [ScriptsJS](./scripts.md)
+- [ScriptsJS](./scripts.js)
