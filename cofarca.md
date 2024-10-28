@@ -8,7 +8,6 @@ proveedor sirve a varios departamentos, será el área financiera quien decida a
 se asigna la factura.
 
 
-  En el caso de cambiar el "Departamento Asignado", secambian 
+  En el caso de cambiar el "Departamento Asignado", se cambian otros valores que están asociados, por como está configurado ahora. Lo dejo de está forma o el valor será indeendiente. 
 
-
-   
+4. Explicación de como funciona el messageID 
