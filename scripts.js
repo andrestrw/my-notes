@@ -50,3 +50,36 @@ if (Array.isArray(lactcol4)) {
     tipoDato = typeof lactcol4;
     tc.push(tipoDato)
 }
+
+// Conseguir minutos y segundos
+
+var date = new Date();
+
+function formatDateToString(date) {
+    // Horas en formato 24 horas
+    var hours24 = date.getHours();
+
+    // Minutos
+    var minutes = date.getMinutes();
+
+    // Determinar AM o PM
+    var ampm = hours24 >= 12 ? 'PM' : 'AM';
+
+    // Convertir a formato de 12 horas
+    var hours12 = hours24 % 12 || 12; // Si es 0, asignar 12
+
+    // Añadir cero inicial a horas y minutos si es necesario
+    var hoursStr = hours12 < 10 ? '0' + hours12 : '' + hours12;
+    var minutesStr = minutes < 10 ? '0' + minutes : '' + minutes;
+
+    // Crear el formato deseado
+    return hoursStr + ':' + minutesStr + ' ' + ampm;
+}
+
+var minutesSeconds
+
+minutesSeconds = formatDateToString(date)
+
+
+
+
