@@ -4,6 +4,12 @@
 
 ## Enfoque actual
 
+1 Solucionar el problema de las llamadas Rest y la asiganción de grupos
+2. Hablar con Therefore y comentarles la situación que tiene el cliente ahora | Ya se les ha respondido mediante los tickets
+    2.1 Somos concientes que tenemos que realizar la actualizaciónm pero preferimos evitarla, ya que el cliente mueve miles de documentops de forma diaria y eso conllevara tiempo de         
+    prepararación y actualmente estamos llevando un evolutivo sobre el proyecto y viene otro en camino, por eso la importancia de arreglar esto de la mejor forma posible ahora. 
+
+
 Enfocarse en conseguir la parte de la llamada rest con el valor de la fila y el número de documento, para saber que tratamos con un dato único
 
 ## Pendientes
