@@ -20,7 +20,8 @@ Departamento Asignado = Nombre Departamento
 2. Se ha realizado un cambio en la validación del CIF Proveedor, y dependiendo del caso que se presente, se pueden presentar 3 textos en el cmapo -> Comprobación CIF
    
 
-![image](https://github.com/user-attachments/assets/dccbc-4244-a96f-4e365f390938)
+
+![image](https://github.com/user-attachments/assets/966f628a-a46f-434e-b21e-bef686fc0d62)
 
 
 
