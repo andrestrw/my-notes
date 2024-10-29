@@ -2,13 +2,13 @@
 
 
 
-3. Página 9 del SOW
+1. Página 9 del SOW
 
 En la ficha del proveedor se podrá indicar el departamento que tiene que aprobar la factura. Si un 
 proveedor sirve a varios departamentos, será el área financiera quien decida a que departamento 
 se asigna la factura.
 
-  **Cambios Realizados 3:**
+  **Cambios Realizados:**
 
 Muevo los valores de la captura hacia ocultos -> Cmabiando la terminación, para poder usar ese mismo nombre en la pestaña "datos principales".
 
@@ -17,7 +17,7 @@ Dentro de "Datos Principales", agrego:
 ID Departamento  = ID Departamento 
 Departamento Asignado = Nombre Departamento
 
-
+2. Se ha realizado un cambio en la validación del CIF Proveedor, y dependiendo del caso que se presente, se pueden presentar 3 textos en el cmapo -> Comprobación CIF
    
 
 # Realizado
