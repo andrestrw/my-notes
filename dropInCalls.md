@@ -1,3 +1,5 @@
+-----------------------
+
 Reunión Drop-in call || 24-10-2024
 1. Medina Garvey
 
@@ -21,7 +23,6 @@ valery coloref   , si está actualizado
 
 El lunes ya tienes una reunión
 
------------------------
 
 4. Consell Inssular -> Le envie el presupuesto hace una semana
 
