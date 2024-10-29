@@ -1,15 +1,5 @@
 # Dudas
 
-1. ** Confirmación de la MIGO**
-
-   **Pendiente:**
-
-   - Cofarca enviará un **"In_Estado_del_Pedido"**, valor el cual nosotros introduciremos en **"Estado_Pedido"**.
-   - Cuando llegue ese valor, se continuará el WF del lado derecho.
-
-   **Posibilidades:**
-
-   - Crear un WF que se activará si el valor cambia, para registrar la fecha y la hora de dicho cambio.
 
 
 3. Página 9 del SOW
@@ -28,7 +18,13 @@ ID Departamento  = ID Departamento
 Departamento Asignado = Nombre Departamento
 
 
-4. MessageID
+   
+
+# Realizado
+
+-------------------
+
+MessageID
 
    El MessageID se va a encargar de conectar en cascada el email que llega con los documentos
 
@@ -36,13 +32,23 @@ Departamento Asignado = Nombre Departamento
    1 LLega una factura por correo, guardamos el correo y el messageId sirve de enlace, para que si queremos ver desde que correo ha llegado esta factura, poder verlo con la categoría Facturas Compras
 
    Ya configurado
-   
+
+-------------------
 
 
+# Pendiente
 
+-------------------
 
+1. ** Confirmación de la MIGO**
 
+   **Pendiente:**
 
+   - Cofarca enviará un **"In_Estado_del_Pedido"**, valor el cual nosotros introduciremos en **"Estado_Pedido"**.
+   - Cuando llegue ese valor, se continuará el WF del lado derecho.
 
+   **Posibilidades:**
 
+   - Crear un WF que se activará si el valor cambia, para registrar la fecha y la hora de dicho cambio.
 
+-------------------
