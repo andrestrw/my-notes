@@ -34,4 +34,30 @@ se asigna la factura.
 
   En el caso de cambiar el "Departamento Asignado", se cambian otros valores que están asociados, por como está configurado ahora. Lo dejo de está forma o el valor será indeendiente. 
 
-4. Explicación de como funciona el messageID 
+  **Cambios Realizados 3:**
+
+Muevo los valores de la captura hacia ocultos -> Cmabiando la terminación, para poder usar ese mismo nombre en la pestaña "datos principales".
+
+Dentro de "Datos Principales", agrego:
+
+ID Departamento  = ID Departamento 
+Departamento Asignado = Nombre Departamento
+
+
+
+4. MessageID
+
+   El MessageID se va a encargar de conectar en cascada el email que llega con los documentos
+
+   Ej:
+
+   1 LLega una factura por correo, guardamos el correo y el messageId sirve de enlace, para que si queremos ver desde que correo ha llegado esta factura, poder verlo con la categoría Facturas Compras 
+
+
+
+
+
+
+
+
+
